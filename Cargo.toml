@@ -1,0 +1,10 @@
+[package]
+name = "unique-vec-deque"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+thiserror = "1.0.40"
+
+[dev-dependencies]
+maplit = "1.0.2"
